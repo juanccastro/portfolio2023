@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio2023/static/css/main.823ed0d8.css",
+    "main.js": "/portfolio2023/static/js/main.853fb73a.js",
+    "static/media/nola.png": "/portfolio2023/static/media/nola.8e09dc16c9efb6b84965.png",
+    "static/media/complexland.png": "/portfolio2023/static/media/complexland.2151e9b084a8c0c3da0f.png",
+    "static/media/nola-video.mp4": "/portfolio2023/static/media/nola-video.85f0e02b026fd9a6f70a.mp4",
+    "static/media/complexcover.png": "/portfolio2023/static/media/complexcover.6bff21000ffd9b12a8aa.png",
+    "static/media/complex-video.mp4": "/portfolio2023/static/media/complex-video.93cf91b6853820ec7a9e.mp4",
+    "static/media/complex-video2.mp4": "/portfolio2023/static/media/complex-video2.1080a7b8c68ae889a056.mp4",
+    "static/media/nola-exterior.png": "/portfolio2023/static/media/nola-exterior.b06cd8eb29a4894315f4.png",
+    "static/media/cover.png": "/portfolio2023/static/media/cover.e38333cb70cfb9bf22a4.png",
+    "static/media/app.png": "/portfolio2023/static/media/app.8441740554cfefc2a60d.png",
+    "static/media/nolacover.png": "/portfolio2023/static/media/nolacover.16cf8550b8ee774c5904.png",
+    "static/media/booth-app.png": "/portfolio2023/static/media/booth-app.ca83380a346de6e611ec.png",
+    "static/media/boothexterior.png": "/portfolio2023/static/media/boothexterior.661a41af6b0a2b065d33.png",
+    "static/media/info-photo.png": "/portfolio2023/static/media/info-photo.79db5a42990455171dbd.png",
+    "static/media/colors.gif": "/portfolio2023/static/media/colors.af2f5d75c4754462ecc2.gif",
+    "static/media/EditorialNew-UltralightItalic.woff": "/portfolio2023/static/media/EditorialNew-UltralightItalic.96e2a413788274fcf33c.woff",
+    "static/media/EditorialNew-Ultralight.woff": "/portfolio2023/static/media/EditorialNew-Ultralight.1127b797908852ae4a53.woff",
+    "static/media/font.png": "/portfolio2023/static/media/font.513cb3b97b000ee7c384.png",
+    "static/media/NeueHaasDisplay-Roman.woff": "/portfolio2023/static/media/NeueHaasDisplay-Roman.288dede4e657a8f50bcc.woff",
+    "static/media/logo1.png": "/portfolio2023/static/media/logo1.e1718e19b033966f2a52.png",
+    "static/media/logo2.png": "/portfolio2023/static/media/logo2.b589d279f2f16ff38a56.png",
+    "index.html": "/portfolio2023/index.html",
+    "main.823ed0d8.css.map": "/portfolio2023/static/css/main.823ed0d8.css.map",
+    "main.853fb73a.js.map": "/portfolio2023/static/js/main.853fb73a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823ed0d8.css",
+    "static/js/main.853fb73a.js"
+  ]
+}
