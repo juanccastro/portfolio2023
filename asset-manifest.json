@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio2023/static/css/main.823ed0d8.css",
-    "main.js": "/portfolio2023/static/js/main.853fb73a.js",
+    "main.css": "/portfolio2023/static/css/main.53ac88d4.css",
+    "main.js": "/portfolio2023/static/js/main.dd067c20.js",
     "static/media/nola.png": "/portfolio2023/static/media/nola.8e09dc16c9efb6b84965.png",
-    "static/media/complexland.png": "/portfolio2023/static/media/complexland.2151e9b084a8c0c3da0f.png",
     "static/media/nola-video.mp4": "/portfolio2023/static/media/nola-video.85f0e02b026fd9a6f70a.mp4",
-    "static/media/complexcover.png": "/portfolio2023/static/media/complexcover.6bff21000ffd9b12a8aa.png",
     "static/media/complex-video.mp4": "/portfolio2023/static/media/complex-video.93cf91b6853820ec7a9e.mp4",
     "static/media/complex-video2.mp4": "/portfolio2023/static/media/complex-video2.1080a7b8c68ae889a056.mp4",
     "static/media/nola-exterior.png": "/portfolio2023/static/media/nola-exterior.b06cd8eb29a4894315f4.png",
     "static/media/cover.png": "/portfolio2023/static/media/cover.e38333cb70cfb9bf22a4.png",
+    "static/media/Cover.jpg": "/portfolio2023/static/media/Cover.5a4f007f2958ab003ee3.jpg",
     "static/media/app.png": "/portfolio2023/static/media/app.8441740554cfefc2a60d.png",
+    "static/media/complexcover.png": "/portfolio2023/static/media/complexcover.b11da69a1baf7a77bf75.png",
     "static/media/nolacover.png": "/portfolio2023/static/media/nolacover.16cf8550b8ee774c5904.png",
+    "static/media/sonoscover.png": "/portfolio2023/static/media/sonoscover.195d5197afe15c03cb99.png",
     "static/media/booth-app.png": "/portfolio2023/static/media/booth-app.ca83380a346de6e611ec.png",
     "static/media/boothexterior.png": "/portfolio2023/static/media/boothexterior.661a41af6b0a2b065d33.png",
     "static/media/info-photo.png": "/portfolio2023/static/media/info-photo.79db5a42990455171dbd.png",
@@ -22,12 +23,19 @@
     "static/media/NeueHaasDisplay-Roman.woff": "/portfolio2023/static/media/NeueHaasDisplay-Roman.288dede4e657a8f50bcc.woff",
     "static/media/logo1.png": "/portfolio2023/static/media/logo1.e1718e19b033966f2a52.png",
     "static/media/logo2.png": "/portfolio2023/static/media/logo2.b589d279f2f16ff38a56.png",
+    "static/media/FKGroteskNeueTrial-Regular.woff": "/portfolio2023/static/media/FKGroteskNeueTrial-Regular.c9168e5f988fb0c141aa.woff",
+    "static/media/FKGroteskNeueTrial-Bold.woff": "/portfolio2023/static/media/FKGroteskNeueTrial-Bold.82356451678d2e6ea258.woff",
+    "static/media/FKGroteskNeueTrial-Black.woff": "/portfolio2023/static/media/FKGroteskNeueTrial-Black.87d810f95d4b9ff8573d.woff",
+    "static/media/logo_jc.svg": "/portfolio2023/static/media/logo_jc.cc2d7be48b500d85a9a87b4b19ad31dd.svg",
+    "static/media/AberMono-Bold.woff": "/portfolio2023/static/media/AberMono-Bold.122b1e6de778c72cea70.woff",
+    "static/media/AberMono-Regular.woff": "/portfolio2023/static/media/AberMono-Regular.13329c5ba92a00515a58.woff",
+    "static/media/symbol.svg": "/portfolio2023/static/media/symbol.0c43f7da9c00245be6c27110e1ee1cc5.svg",
     "index.html": "/portfolio2023/index.html",
-    "main.823ed0d8.css.map": "/portfolio2023/static/css/main.823ed0d8.css.map",
-    "main.853fb73a.js.map": "/portfolio2023/static/js/main.853fb73a.js.map"
+    "main.53ac88d4.css.map": "/portfolio2023/static/css/main.53ac88d4.css.map",
+    "main.dd067c20.js.map": "/portfolio2023/static/js/main.dd067c20.js.map"
   },
   "entrypoints": [
-    "static/css/main.823ed0d8.css",
-    "static/js/main.853fb73a.js"
+    "static/css/main.53ac88d4.css",
+    "static/js/main.dd067c20.js"
   ]
 }
