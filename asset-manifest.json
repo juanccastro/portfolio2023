@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio2023/static/css/main.53ac88d4.css",
-    "main.js": "/portfolio2023/static/js/main.dd067c20.js",
+    "main.css": "/portfolio2023/static/css/main.f824bc50.css",
+    "main.js": "/portfolio2023/static/js/main.e1ec5326.js",
     "static/media/nola.png": "/portfolio2023/static/media/nola.8e09dc16c9efb6b84965.png",
     "static/media/nola-video.mp4": "/portfolio2023/static/media/nola-video.85f0e02b026fd9a6f70a.mp4",
     "static/media/complex-video.mp4": "/portfolio2023/static/media/complex-video.93cf91b6853820ec7a9e.mp4",
@@ -16,7 +16,10 @@
     "static/media/booth-app.png": "/portfolio2023/static/media/booth-app.ca83380a346de6e611ec.png",
     "static/media/boothexterior.png": "/portfolio2023/static/media/boothexterior.661a41af6b0a2b065d33.png",
     "static/media/info-photo.png": "/portfolio2023/static/media/info-photo.79db5a42990455171dbd.png",
+    "static/media/fashioncover.jpg": "/portfolio2023/static/media/fashioncover.d6b1d609e32d97ec54ae.jpg",
     "static/media/colors.gif": "/portfolio2023/static/media/colors.af2f5d75c4754462ecc2.gif",
+    "static/media/adidascover.jpg": "/portfolio2023/static/media/adidascover.907d2206898da23c5504.jpg",
+    "static/media/AlteHaasGroteskBold.woff": "/portfolio2023/static/media/AlteHaasGroteskBold.0bc1dc080a93070f1e6e.woff",
     "static/media/EditorialNew-UltralightItalic.woff": "/portfolio2023/static/media/EditorialNew-UltralightItalic.96e2a413788274fcf33c.woff",
     "static/media/EditorialNew-Ultralight.woff": "/portfolio2023/static/media/EditorialNew-Ultralight.1127b797908852ae4a53.woff",
     "static/media/font.png": "/portfolio2023/static/media/font.513cb3b97b000ee7c384.png",
@@ -27,15 +30,17 @@
     "static/media/FKGroteskNeueTrial-Bold.woff": "/portfolio2023/static/media/FKGroteskNeueTrial-Bold.82356451678d2e6ea258.woff",
     "static/media/FKGroteskNeueTrial-Black.woff": "/portfolio2023/static/media/FKGroteskNeueTrial-Black.87d810f95d4b9ff8573d.woff",
     "static/media/logo_jc.svg": "/portfolio2023/static/media/logo_jc.cc2d7be48b500d85a9a87b4b19ad31dd.svg",
+    "static/media/P-LGrotesque001-Regular.woff": "/portfolio2023/static/media/P-LGrotesque001-Regular.2bf926b2271e9b3ea33a.woff",
     "static/media/AberMono-Bold.woff": "/portfolio2023/static/media/AberMono-Bold.122b1e6de778c72cea70.woff",
     "static/media/AberMono-Regular.woff": "/portfolio2023/static/media/AberMono-Regular.13329c5ba92a00515a58.woff",
+    "static/media/logo2.svg": "/portfolio2023/static/media/logo2.2eec941f42c93ac2b9bcb51e8803ca2d.svg",
     "static/media/symbol.svg": "/portfolio2023/static/media/symbol.0c43f7da9c00245be6c27110e1ee1cc5.svg",
     "index.html": "/portfolio2023/index.html",
-    "main.53ac88d4.css.map": "/portfolio2023/static/css/main.53ac88d4.css.map",
-    "main.dd067c20.js.map": "/portfolio2023/static/js/main.dd067c20.js.map"
+    "main.f824bc50.css.map": "/portfolio2023/static/css/main.f824bc50.css.map",
+    "main.e1ec5326.js.map": "/portfolio2023/static/js/main.e1ec5326.js.map"
   },
   "entrypoints": [
-    "static/css/main.53ac88d4.css",
-    "static/js/main.dd067c20.js"
+    "static/css/main.f824bc50.css",
+    "static/js/main.e1ec5326.js"
   ]
 }
